@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="TestNgParametersSuite" parallel="false">
+    <parameter name="Requirement" value="XTP-123"></parameter>
+    <parameter name="Test" value="XTP-111"></parameter>
+    <test name="TestNgParametersTest">
+        <classes>
+            <class name="example2.TestClass" />
+        </classes>
+    </test>
+</suite>
